@@ -9,39 +9,39 @@ The project focused on creating interactive dashboards that effectively visualiz
 
 Key Steps Involved
 ---------------------
-->Requirement Gathering: In-depth understanding of business needs and data availability.
+- Requirement Gathering: In-depth understanding of business needs and data availability.
 
-->Data Modeling: Structuring data for optimal analysis and visualization.
+- Data Modeling: Structuring data for optimal analysis and visualization.
 
-->Data Integrity Checking: Ensuring data accuracy and consistency.
+- Data Integrity Checking: Ensuring data accuracy and consistency.
 
-->Dashboard Planning: Defining the dashboard layout and content.
+- Dashboard Planning: Defining the dashboard layout and content.
 
-->Dashboard Mockup Creation: Visualizing the dashboard design.
+- Dashboard Mockup Creation: Visualizing the dashboard design.
 
-->Chart and Visualization Development: Building effective visual representations of data.
+- Chart and Visualization Development: Building effective visual representations of data.
 
-->Chart Formatting: Enhancing visual appeal and clarity.
+- Chart Formatting: Enhancing visual appeal and clarity.
 
-->Dashboard Structure Implementation: Assembling dashboard components according to the mockup.
+- Dashboard Structure Implementation: Assembling dashboard components according to the mockup.
 
-->Dashboard Refinement: Finalizing the dashboard layout and interactivity.
+- Dashboard Refinement: Finalizing the dashboard layout and interactivity.
 
-->Formatting: Applying consistent styling and formatting to the dashboard.
+- Formatting: Applying consistent styling and formatting to the dashboard.
 
 Key Dashboard Features
 ------------------------
-->Dynamic Interaction: Real-time updates based on user selections.
+- Dynamic Interaction: Real-time updates based on user selections.
 
-->Chart-Based Filtering: Refining data display through chart interactions.
+- Chart-Based Filtering: Refining data display through chart interactions.
 
-->Dedicated Filter Container: Enabling easy filtering by year, location, and product.
+- Dedicated Filter Container: Enabling easy filtering by year, location, and product.
 
-->Navigational Buttons: Facilitating movement between dashboards.
+- Navigational Buttons: Facilitating movement between dashboards.
 
-->Clear KPI and Trend Visualization: Effective presentation of key metrics and patterns.
+- Clear KPI and Trend Visualization: Effective presentation of key metrics and patterns.
 
-->Reference Lines and Indicators: Enhancing data interpretation.
+- Reference Lines and Indicators: Enhancing data interpretation.
 
 
 Key Metrics
@@ -50,28 +50,28 @@ Key Metrics
 1.Sales Dashboard
 ---------------------
 
-->Total Sales
+- Total Sales
 
-->Total Profit
+- Total Profit
 
-->Total Quantity
+- Total Quantity
 
-->Sales and Profit by Subcategory
+- Sales and Profit by Subcategory
 
-->Sales and Profit Trends Over Time
+- Sales and Profit Trends Over Time
 
 2.Customer Dashboard
 ---------------------
 
-->Total Customers
+- Total Customers
 
-->Total Sales Per Customer
+- Total Sales Per Customer
 
-->Total Orders
+- Total Orders
 
-->Customer Distribution by Number of Orders
+- Customer Distribution by Number of Orders
 
-->Top 10 Customers by Profit
+- Top 10 Customers by Profit
 
 By following a systematic approach and leveraging Tableau's capabilities, this project delivers insightful dashboards that empower stakeholders to make informed decisions based on data-driven insights.
 
